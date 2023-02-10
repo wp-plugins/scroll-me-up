@@ -1,6 +1,6 @@
 === Plugin Name ===
-Contributors: maluherby
-Donate link: http://herbydesign.com/
+Contributors: Hernan Malubay
+Donate link: https://herbydesign.com/
 Tags: wordpressscroll, scroll to top, scroll me up, scroll up.
 Requires at least: 3.0.1
 Tested up to: 3.4
